@@ -8,6 +8,9 @@ namespace HackerRankSolutions
 {
     class LeftRotationArray
     {
+        /// <summary>
+        /// Problem Source - https://www.hackerrank.com/challenges/ctci-array-left-rotation
+        /// </summary>
         public LeftRotationArray()
         {
             string[] tokens_n = Console.ReadLine().Split(' ');

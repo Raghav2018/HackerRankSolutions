@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace HackerRankSolutions
 {
+    /// <summary>
+    /// Uncomment the respective lines to run solution for a problem. 
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
         {
-            //Array : Left Rotation problem, uncomment the below line to run the solution 
+            //Array : Left Rotation problem
             //LeftRotationArray leftArrayRotation = new LeftRotationArray();
 
-
+            //Hash Tables: Ransom Note
+            //RansomeNoteHashTables ransomNoteHashTables = new RansomeNoteHashTables();
         }
     }
 }
