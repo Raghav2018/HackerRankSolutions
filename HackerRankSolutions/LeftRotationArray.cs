@@ -23,7 +23,7 @@ namespace HackerRankSolutions
             Console.WriteLine(string.Join(" ", a));
         } 
 
-        static int[] leftRotate(int[] arr, int d, int n)
+        private static int[] leftRotate(int[] arr, int d, int n)
         {
             arr = rvereseArray(arr, 0, d - 1);
             arr = rvereseArray(arr, d, n - 1);
@@ -32,7 +32,7 @@ namespace HackerRankSolutions
         }
 
         /*Function to reverse arr[] from index start to end*/
-        static int[] rvereseArray(int[] arr, int start, int end)
+        private static int[] rvereseArray(int[] arr, int start, int end)
         {
             int temp;
             while (start < end)

@@ -18,6 +18,9 @@ namespace HackerRankSolutions
 
             //Hash Tables: Ransom Note
             //RansomeNoteHashTables ransomNoteHashTables = new RansomeNoteHashTables();
+
+            //Merge Sort: Counting Inversions
+            //CountingInversionsMergeSort countingInversionsMergeSort = new CountingInversionsMergeSort();
         }
     }
 }
