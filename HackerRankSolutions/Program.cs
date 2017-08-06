@@ -21,6 +21,9 @@ namespace HackerRankSolutions
 
             //Merge Sort: Counting Inversions
             //CountingInversionsMergeSort countingInversionsMergeSort = new CountingInversionsMergeSort();
+
+            //Stacks: Balanced Brackets 
+            //BalancedBracketsStacks balanceBracketsStacks = new BalancedBracketsStacks();
         }
     }
 }

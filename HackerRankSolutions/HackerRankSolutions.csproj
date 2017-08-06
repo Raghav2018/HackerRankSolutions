@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BalancedBracketsStacks.cs" />
     <Compile Include="CountingInversionsMergeSort.cs" />
+    <Compile Include="TaleOfTwoStacksQueues.cs" />
     <Compile Include="LeftRotationArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
